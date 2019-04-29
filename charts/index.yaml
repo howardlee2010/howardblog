@@ -3,7 +3,7 @@ entries:
   redis:
   - apiVersion: v1
     appVersion: 4.0.14
-    created: 2019-04-29T15:44:24.238640155+08:00
+    created: 2019-04-29T17:06:09.560472643+08:00
     description: Open source, advanced key-value store. It is often referred to as
       a data structure server since keys can contain strings, hashes, lists, sets
       and sorted sets.
@@ -24,6 +24,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-redis
     urls:
-    - http://10.7.12.211:8879/redis-7.0.0.tgz
+    - redis-7.0.0.tgz
     version: 7.0.0
-generated: 2019-04-29T15:44:24.234668789+08:00
+generated: 2019-04-29T17:06:09.557429515+08:00
